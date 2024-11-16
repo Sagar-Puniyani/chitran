@@ -73,7 +73,7 @@ const About = () => {
     },
     {
       icon: Mail,
-      url: "mailto:sagarpuniyani@gmail.com",
+      url: "https://mail.google.com/mail/?view=cm&fs=1&to=sagarpuniyani@gmail.com",
       label: "Gmail"
     }
   ];

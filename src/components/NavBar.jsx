@@ -38,7 +38,7 @@ const Navbar = () => {
           {/* GitHub Button */}
           <RainbowButton className="px-3 md:px-8">
             <a
-              href="https://github.com/sagar-punyani/chitran"
+              href="https://github.com/Sagar-Puniyani/chitran"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-white"
