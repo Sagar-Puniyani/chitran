@@ -45,7 +45,7 @@ const Home = () => {
     { 
       title: 'About Me', 
       imageSrc: myphoto, 
-      altText: 'Sagar Talagana', 
+      altText: 'Sagar Puniyani', 
       path: '/about' 
     },
   ];
@@ -75,7 +75,7 @@ const Home = () => {
       </div>
 
       <footer className="mt-16 text-center">
-        <Link to="https://talaganaSagar.vercel.app/">
+        <Link to="https://sagarpuniyani.vercel.app/">
           <h2 className="text-sm font-semibold text-gray-400 hover:text-teal-400">
             Made with ❤️ by <span className="font-bold">Sagar</span>
           </h2>
